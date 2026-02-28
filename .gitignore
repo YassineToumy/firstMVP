@@ -1,0 +1,17 @@
+.env
+*.log
+
+# Laravel
+laravel-api/vendor/
+laravel-api/node_modules/
+laravel-api/.env
+laravel-api/storage/logs/*
+laravel-api/storage/framework/cache/*
+laravel-api/storage/framework/sessions/*
+laravel-api/storage/framework/views/*
+
+# Nuxt
+nuxt-app/node_modules/
+nuxt-app/.nuxt/
+nuxt-app/.output/
+nuxt-app/.env
