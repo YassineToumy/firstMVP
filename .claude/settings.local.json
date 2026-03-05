@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install @nuxtjs/i18n)",
+      "Bash(npm list @nuxtjs/i18n)",
+      "Bash(npm run postinstall)"
+    ]
+  }
+}
